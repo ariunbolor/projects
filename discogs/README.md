@@ -1,5 +1,5 @@
 #Set-up instructions
-To run, first install the dependencies:
+To run, first install the dependencies: 
 
     bower install
 
